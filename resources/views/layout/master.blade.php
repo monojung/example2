@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <a href="/">หน้าแรก</a> | <a href="/about">about</a> | <a href="/contact">contact</a> | <a href="/สวัสดี/AA/BB/55">ข้อความ</a>
+    <a href="/">หน้าแรก</a> | <a href="/about">about</a> | <a href="/contact">contact</a> | <a href="/สวัสดี/AA/BB/55">ข้อความ</a> | <a href="/กิจกรรม">กิจกรรม</a>
     <hr>
     @yield('content')
 </body>
